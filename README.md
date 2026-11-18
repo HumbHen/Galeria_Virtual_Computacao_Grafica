@@ -55,4 +55,5 @@ O [relatório técnico](docs/relatorio.md) detalha as escolhas e registra a veri
 | 5–7 min | Use **L** duas vezes e compare a componente ambiente com os cones. Explique o produto escalar, a atenuação e o brilho especular. |
 | 7–9 min | Mostre o shader de vértices e relacione modelo, vista e projeção com a navegação. |
 | 9–10 min | Informe o link do repositório do grupo e reserve tempo para perguntas. |
+
 # Galeria_Virtual_Computacao_Grafica
